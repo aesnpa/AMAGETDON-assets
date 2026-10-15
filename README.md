@@ -7,14 +7,14 @@
 본문(`chapters.csv`의 `chapter_content`)에서는 아래 주소를 `<img src>`에 그대로 씁니다.
 
 ```
-https://raw.githubusercontent.com/aesnpa/AMAGETDON-assets/main/chapter/<파일명>
+https://raw.githubusercontent.com/aesnpa/AMAGETDON-assets/master/chapter/<파일명>
 ```
 
 예시:
 
 ```html
 <figure>
-  <img src="https://raw.githubusercontent.com/aesnpa/AMAGETDON-assets/main/chapter/ch1_01_trade_flow.png"
+  <img src="https://raw.githubusercontent.com/aesnpa/AMAGETDON-assets/master/chapter/ch1_01_trade_flow.png"
        alt="주식 거래 흐름">
   <figcaption>주식 거래 흐름</figcaption>
 </figure>
